@@ -17,7 +17,7 @@
     "erela.js": "^1.0.8",
     "fs": "0.0.1-security",
     "klasa": "^0.4.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "overwatch-api": "^0.8.2",
     "simple-fortnite-api": "^0.1.9"
   }
